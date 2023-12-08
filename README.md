@@ -1,3 +1,2 @@
 # AirfoilNet
-
-## Coming soon
+ Coming soon
